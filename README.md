@@ -1,5 +1,5 @@
 # Teste Home
 
-- Learning GitHub
+- Repositorio Para Projetos_Maquina_Home
 
-- Learning GitHub
+- Repositorio Teste_Curso_Github
